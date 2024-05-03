@@ -1,5 +1,6 @@
 # ratemyadvisor，导师评价
 
+By the students, of the students, for the students
 
 ## 以下是一些导师的类型，你想跟着谁读研呢？
 - A 神仙导师，一路给学生保驾护航，在校专心干科研，学生荣誉众多，准时毕业，毕业之后人生上了一个新台阶
